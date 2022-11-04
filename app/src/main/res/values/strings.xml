@@ -1,0 +1,9 @@
+<resources>
+    <string name="compose_loan_send_code">获取验证码</string>
+    <string name="compose_loan_login">登录</string>
+    <string name="compose_loan_login_success">登录成功</string>
+    <string name="compose_loan_please_input_phone">请输入手机号码</string>
+    <string name="tip_exit_app">If you click once again, the app will be closed</string>
+
+
+</resources>
