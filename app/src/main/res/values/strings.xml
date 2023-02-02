@@ -1,9 +1,37 @@
 <resources>
-    <string name="compose_loan_send_code">获取验证码</string>
-    <string name="compose_loan_login">登录</string>
-    <string name="compose_loan_login_success">登录成功</string>
-    <string name="compose_loan_please_input_phone">请输入手机号码</string>
-    <string name="tip_exit_app">If you click once again, the app will be closed</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="telephone_number">Telephone Number</string>
+    <string name="send_code">Get Code</string>
 
+    <string name="loan_login">Login</string>
+    <string name="tip_exit_app">If you click once again, the app will be closed</string>
+    <string name="agree_privacy">Privacy Policy and Licensing Information</string>
+    <string name="have_agree">I have read and agree</string>
+    <string name="please_enter_phone">Please enter your phone number</string>
+    <string name="fill_code">Fill in the invitation code</string>
+    <string name="agree_this">Please read and agree to the privacy protection and authorization terms</string>
+    <string name="receive_code_fun">Choose Receiving Method</string>
+    <string name="voice_code">voice code</string>
+    <string name="sms_code">SMS code</string>
+
+    <string name="exit_login">Exit login</string>
+    <string name="version">Version</string>
+    <string name="log_out_tip">Are you sure you want to log out?</string>
+    <string name="help">help center</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="email">Email:</string>
+
+    <string name="personal_information">Personal</string>
+    <string name="additional_information">Additional</string>
+    <string name="bank_certification">Bank</string>
+    <string name="information">Information</string>
+    <string name="basic_info">Basic Information</string>
+    <string name="please_enter">Please enter</string>
+    <string name="please_choose">Please choose</string>
+    <string name="birthday">Birthday</string>
+    <string name="current_province">Current Province</string>
+    <string name="current_address">Current Address</string>
+    <string name="gender">Gender</string>
 
 </resources>

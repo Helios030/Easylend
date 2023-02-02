@@ -1,21 +1,20 @@
-package com.easy.config
+package com.loanspeed.config
 
 
 object Config {
     const val compileSdk = 33
-    const val appId = "com.easy.lend"
+    const val appId = "com.loanspeed.speed"
     const val minSdk = 23
     const val targetSdk = 33
     const val versionCode = 1
     const val versionName = "1.0.0"
-    const val packAppName = "Easylend"
+    const val packAppName = "LoanSpeed"
     const val channel = "\"1\""
-    const val onLineBaseUrl = "\"https://rupeelot.ml/\""
-    const val betaBaseUrl = "\"https://rupeelot.ml/\""
-    const val appName = "\"Easylend\""
-    const val privacyPolicy = "\"https://rupeelot.ml//h5/html/privacy.html\""
-    const val repaymentGuidelines = "\"https://rupeelot.ml/h5/html/repayment-data.html\""
-    const val facebookAppId = "\"479819997255882\""
+    const val onLineBaseUrl = "\"http://loanspeed.kmindo.com/\""
+    const val betaBaseUrl = "\"http://loanspeed.kmindo.com/\""
+    const val appName = "\"LoanSpeed\""
+    const val privacyPolicy = "\"http://loanspeed.kmindo.com/Privacy-Policy.html\""
+    const val repaymentGuidelines = "\"http://loanspeed.kmindo.com/repayment-data.html\""
     const val areaCode = "\"+92\""
 }
 
@@ -48,12 +47,15 @@ object Lib {
     const val hilt_navigation = "androidx.hilt:hilt-navigation-compose:1.0.0"
     //    navigation
     const val navigation_compose = "androidx.navigation:navigation-compose:2.5.3"
-    const val navigation_animation =
-        "com.google.accompanist:accompanist-navigation-animation:0.24.6-alpha"
+    const val navigation_animation = "com.google.accompanist:accompanist-navigation-animation:0.24.6-alpha"
     //    security
     const val security_ktx = "androidx.security:security-crypto-ktx:1.1.0-alpha03"
      //权限申请
     const val permission = "com.github.getActivity:XXPermissions:13.6"
+    const val immersionbar = "com.gyf.immersionbar:immersionbar:3.0.0"
+
+    const val android_id =  "com.github.gzu-liyujiang:Android_CN_OAID:4.2.4"
+    const val rootbeer =  "com.scottyab:rootbeer-lib:0.1.0"
 
 
 }
